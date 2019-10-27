@@ -105,3 +105,10 @@ a img {
   background: #eee;
   margin: 0 20px 20px 0;
 }
+
+/*Custom CSS*/
+
+#section {
+  display: inline-block;
+  padding-right: 10px;
+}
